@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>G BLOG</title>
     <link>https://jasongwq.github.io/gblog/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on G BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language><atom:link href="https://jasongwq.github.io/gblog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
