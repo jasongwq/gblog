@@ -6,7 +6,16 @@
     <description>Recent content on G BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 11 Nov 2021 01:25:31 +0800</lastBuildDate><atom:link href="https://jasongwq.github.io/gblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 23:24:30 +0800</lastBuildDate><atom:link href="https://jasongwq.github.io/gblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的家庭服务器及自部署服务</title>
+      <link>https://jasongwq.github.io/gblog/posts/%E6%88%91%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <pubDate>Fri, 12 Nov 2021 23:24:30 +0800</pubDate>
+      
+      <guid>https://jasongwq.github.io/gblog/posts/%E6%88%91%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <description>硬件配置 家里有两台设备放在储藏间作为服务器使用。 一台来自于收的矿渣，550入手的暴风播酷云。有点小翻车，网卡总是协商成百兆，于是配了个USB</description>
+    </item>
+    
     <item>
       <title>First</title>
       <link>https://jasongwq.github.io/gblog/posts/first/</link>
