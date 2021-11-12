@@ -5,3 +5,7 @@ theme = "hyde"
 
 hasCJKLanguage = true
 enableEmoji = true
+
+[params] # 指定发布的文件目录和博客描述
+  # description abou this website
+  description = "有关生活、文摘、技术的分享 by 小顾同学"

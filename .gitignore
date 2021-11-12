@@ -1,2 +1,4 @@
 /public
 .hugo_build.lock
+/content/posts/vx.json
+/content/posts/vx_notebook
